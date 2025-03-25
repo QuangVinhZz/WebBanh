@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Birthday Cake",
+    "price": 99,
+    "description": "A delicious birthday cake with fresh cream and fruits.",
+    "image": "../src/images/banh1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Cake",
+    "price": 79,
+    "description": "Rich and moist chocolate cake with dark chocolate ganache.",
+    "image": "../src/images/banh2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wedding Cake",
+    "price": 89,
+    "description": "An elegant wedding cake with vanilla layers and buttercream frosting.",
+    "image": "../src/images/banh3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Cake",
+    "price": 85,
+    "description": "Fresh strawberry cake with soft sponge and cream cheese frosting.",
+    "image": "../src/images/banh1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Black Forest Cake",
+    "price": 95,
+    "description": "Classic black forest cake with cherries and chocolate shavings.",
+    "image": "../src/images/banh2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cheesecake",
+    "price": 90,
+    "description": "Creamy cheesecake with a graham cracker crust and fresh berries.",
+    "image": "../src/images/banh3.jpg"
+  }
+]
